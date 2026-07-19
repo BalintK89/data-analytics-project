@@ -1,6 +1,6 @@
 #  Upcoming: Sales Performance & Data Analysis Project
 
-This repository will host my upcoming data analytics project, scheduled for release in the **first week of August 2026**.
+This repository will host my upcoming data analytics project, scheduled for release in **August 2026**.
 
 ### Project Objectives:
 1. **Data Cleaning:** Utilizing Advanced Excel and SQL to clean, filter, and structure a raw, real-world business dataset.
